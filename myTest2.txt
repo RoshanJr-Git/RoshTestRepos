@@ -1,3 +1,0 @@
-My second github text fileF850-BE17
-modified at 18:44
-new one more after git add
